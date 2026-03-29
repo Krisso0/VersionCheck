@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "build_number": 4,
-  "apk_url": "https://github.com/Krisso0/App-Septembre/releases/download/test/app-release.apk",
+  "apk_url": "https://github.com/Krisso0/VersionCheck/releases/download/1.0/app-release.apk",
   "changelog": "Update url heroku eu"
 }
