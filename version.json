@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "build_number": 5,
+  "build_number": 6,
   "apk_url": "https://github.com/Krisso0/VersionCheck/releases/download/1.0/app-release.apk",
-  "changelog": "Update url heroku eu"
+  "changelog": "LES NOTIFS FONCTIONNJENT JE CROIS YOUPI + petite correction des bughs sur android et ios"
 }
