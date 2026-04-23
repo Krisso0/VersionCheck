@@ -2,5 +2,5 @@
   "version": "1.0.1",
   "build_number": 8,
   "apk_url": "https://github.com/Krisso0/VersionCheck/releases/download/1.0/app-release.apk",
-  "changelog": "Derniers réglages pour le téphone de Quentin (dis moi si ca marche stp)"
+  "changelog": "Réglage bug affichache absences, possibilité de supprimer/modifier les absences, compteur hebdo + mensuel"
 }
